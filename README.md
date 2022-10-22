@@ -1,3 +1,1 @@
-Hi
-
-Created a new Readme.md file using CLI
+My Favorite food is Fries
